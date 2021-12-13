@@ -1,2 +1,1 @@
-# test
-This is a teat repository
+一些小练习
